@@ -24,6 +24,10 @@ Handles product-related operations and product management.
 
 Handles order-related operations and order management.
 
+## Demo Video
+
+[▶️ Watch the KADE E-Commerce Platform Demo](https://drive.google.com/file/d/1m1pLwJdE2LiBXhK6CaJKRgU26r09yrJa/view?usp=drive_link)
+
 ## Architecture
 
 ```text
@@ -33,3 +37,4 @@ Handles order-related operations and order management.
           |              |              |
           v              v              v
      User Service   Product Service   Order Service
+```
